@@ -1,2 +1,20 @@
-# my_first_repository
+# my\_first\_repository
+
+
+
+\# Learning Git
+
+
+
+Here's our todo:
+
+
+
+\- \[x] Create a new file
+
+\- \[ ] Make our first commit
+
+\- \[ ] Fix this tpyo
+
+
 
